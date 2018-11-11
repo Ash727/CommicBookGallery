@@ -69,3 +69,5 @@ C:\Users\Ash\Desktop\Current Working-Demo Reel\Web Development\ComicBookGallery\
 C:\Users\Ash\Desktop\Current Working-Demo Reel\Web Development\ComicBookGallery\obj\Debug\ComicBookGallery.csproj.CopyComplete
 C:\Users\Ash\Desktop\Current Working-Demo Reel\Web Development\ComicBookGallery\obj\Debug\ComicBookGallery.dll
 C:\Users\Ash\Desktop\Current Working-Demo Reel\Web Development\ComicBookGallery\obj\Debug\ComicBookGallery.pdb
+C:\Users\ash\Source\Repos\Ash727\CommicBookGallery\obj\Debug\ComicBookGallery.dll
+C:\Users\ash\Source\Repos\Ash727\CommicBookGallery\obj\Debug\ComicBookGallery.pdb
